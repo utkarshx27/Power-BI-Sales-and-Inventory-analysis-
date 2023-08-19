@@ -1,1 +1,1 @@
-# Power-BI-Sales-and-Inventory-analysis-
+Power BI : Sales and Inventory analysis
